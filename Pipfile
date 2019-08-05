@@ -9,6 +9,10 @@ verify_ssl = true
 flask = "*"
 flask-restful = "*"
 flask-sqlalchemy = "*"
+flask-script = "*"
+flask-migrate = "*"
+psycopg2-binary = "*"
+flask-jwt = "*"
 
 [requires]
 python_version = "3.7"
