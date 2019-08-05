@@ -27,7 +27,7 @@
     <li>Create (Post) a user @ http://127.0.0.1:5000/register. Body: username and password. Content-Type: Application/JSON</li>
     <li>Get a JWT Token @ http://127.0.0.1:5000/auth. Body: username and password. Content-Type: Application/JSON</li>
     <li>Add @jwt_required() to your APIs</li>
-    <li>Call the URLs, and add header: Authorization -> JWT <Your JWT Token></li>
+    <li>Call the URLs, and add header: Authorization -> JWT "Your JWT Token"</li>
 </ol>
 
     
